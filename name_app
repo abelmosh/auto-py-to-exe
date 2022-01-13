@@ -1,0 +1,4 @@
+fname =input('Enter first_name: ')
+lname =input('Enter Last_name: ')
+full_name = fname + ' ' + lname
+print("Your full names are: ",full_name)
